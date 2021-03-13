@@ -1,0 +1,3 @@
+Napisz program realizujący HDR. Po wykonaniu HDR (liczonego jako średnia arytmetyczna dla każdego piksela oddzielnie), program ma również wyrównać wyrównanie histogram obrazu wynikowego. Obraz wynikowy należy zapisać na dysk. Jak dane wejściowe można wziąć obrazy z Wikipedii (https://en.wikipedia.org/wiki/High-dynamic-range_imaging). Obrazy te znajdują się również w materiałach pomocniczych do laboratorium (Zajęcia nr 11/Laboratorium).
+
+Preferowany język programowania - Python. Inne języki też są dopuszczalne.

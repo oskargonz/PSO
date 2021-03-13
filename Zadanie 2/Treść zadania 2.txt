@@ -1,0 +1,20 @@
+Instrukcje
+Napisz implementację systemu IIR w języku Python. Następnie przetestuj zachowanie poniższych układów i opisz ich zachowanie.
+
+Opis współczynników:
+
+Współczynniki a = {a0, a1, a2, ... , aN}, b = {b1, b2, .... , bM}
+
+1) a = {1, 2, 3, 1, 1, 1}, b = {0.9, -0,4, 0.2, -0.1}
+
+2) a = {1, 0, 1, 0, 1}, b = {0.9, 0,4, 0.2, 0.1}
+
+3) a = {1, 0.5, 0.25, 0.125} b = {0.125, -0.25, 0.5, 1, 2, -3}
+
+Do testowania wykorzystaj następujące sygnały wejściowe:
+
+1) Dyskretną deltę Diraca,
+
+2) Sygnał skoku jednostkowego: {0, 0, 0, 0, 1, 1, 1, 1}
+
+3) Sygnał naprzepmienny: {1, 1, 1, 1, 1, -1, -1, -1, -1, -1}
